@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "hk-interface": "./hk-interface",
     "vue": "^2.6.11"
   },
   "devDependencies": {
